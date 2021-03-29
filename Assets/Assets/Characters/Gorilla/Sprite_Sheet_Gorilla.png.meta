@@ -1,0 +1,644 @@
+fileFormatVersion: 2
+guid: 5820e91409c22a247ac957d103865d72
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2852331849597004616
+    second: Sprite_Sheet_Gorilla_0
+  - first:
+      213: 2097524374368440103
+    second: Sprite_Sheet_Gorilla_1
+  - first:
+      213: -5028506828836639913
+    second: Sprite_Sheet_Gorilla_2
+  - first:
+      213: 343073826193985915
+    second: Sprite_Sheet_Gorilla_3
+  - first:
+      213: 5374775885769760294
+    second: Sprite_Sheet_Gorilla_4
+  - first:
+      213: -8700039664319467786
+    second: Sprite_Sheet_Gorilla_5
+  - first:
+      213: 6395255827954294394
+    second: Sprite_Sheet_Gorilla_6
+  - first:
+      213: -4524058470031597683
+    second: Sprite_Sheet_Gorilla_7
+  - first:
+      213: -4113400903856394215
+    second: Sprite_Sheet_Gorilla_8
+  - first:
+      213: 7870858487356835552
+    second: Sprite_Sheet_Gorilla_9
+  - first:
+      213: -2280087018906320361
+    second: Sprite_Sheet_Gorilla_10
+  - first:
+      213: 3415511466273344926
+    second: Sprite_Sheet_Gorilla_11
+  - first:
+      213: 9038646127954384686
+    second: Sprite_Sheet_Gorilla_12
+  - first:
+      213: -7419015697938403273
+    second: Sprite_Sheet_Gorilla_13
+  - first:
+      213: -1360857896846659921
+    second: Sprite_Sheet_Gorilla_14
+  - first:
+      213: -7081146361795100857
+    second: Sprite_Sheet_Gorilla_15
+  - first:
+      213: 4000035549305641811
+    second: Sprite_Sheet_Gorilla_16
+  - first:
+      213: -7504243026030105237
+    second: Sprite_Sheet_Gorilla_17
+  - first:
+      213: -2219985661083469533
+    second: Sprite_Sheet_Gorilla_18
+  - first:
+      213: -932954856821870590
+    second: Sprite_Sheet_Gorilla_19
+  - first:
+      213: -3932356394587634360
+    second: Sprite_Sheet_Gorilla_20
+  - first:
+      213: 8618854800362254342
+    second: Sprite_Sheet_Gorilla_21
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sprite_Sheet_Gorilla_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 3
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b4dc3b8b4b7a68d0800000000000000
+      internalID: -2852331849597004616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Sheet_Gorilla_1
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 3
+        width: 39
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72f44f92e47eb1d10800000000000000
+      internalID: 2097524374368440103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Sheet_Gorilla_2
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 3
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75be09c6ea7273ab0800000000000000
+      internalID: -5028506828836639913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Sheet_Gorilla_3
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 3
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b71d606c3d7d2c400800000000000000
+      internalID: 343073826193985915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Sheet_Gorilla_4
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 3
+        width: 41
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62e54aaf03a079a40800000000000000
+      internalID: 5374775885769760294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Sheet_Gorilla_5
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 3
+        width: 42
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6feed642500434780800000000000000
+      internalID: -8700039664319467786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Sheet_Gorilla_6
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 3
+        width: 42
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7e56f0ca4380c850800000000000000
+      internalID: 6395255827954294394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Sheet_Gorilla_7
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 3
+        width: 41
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8f5bae7ac05731c0800000000000000
+      internalID: -4524058470031597683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Sheet_Gorilla_8
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 3
+        width: 41
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9107ed2fba34ae6c0800000000000000
+      internalID: -4113400903856394215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Sheet_Gorilla_9
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 3
+        width: 41
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e6c548b718ea3d60800000000000000
+      internalID: 7870858487356835552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Sheet_Gorilla_10
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 3
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7120c1dcfe08b50e0800000000000000
+      internalID: -2280087018906320361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Sheet_Gorilla_11
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 3
+        width: 39
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9d0f791595566f20800000000000000
+      internalID: 3415511466273344926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Sheet_Gorilla_12
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 3
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e275e2bb3c8bf6d70800000000000000
+      internalID: 9038646127954384686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Sheet_Gorilla_13
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 3
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 730b555c78c5a0990800000000000000
+      internalID: -7419015697938403273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Sheet_Gorilla_14
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 3
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fae6ba4f3f24d1de0800000000000000
+      internalID: -1360857896846659921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Sheet_Gorilla_15
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 3
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74f37a6c6e6babd90800000000000000
+      internalID: -7081146361795100857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Sheet_Gorilla_16
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 3
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35b1c45932bf28730800000000000000
+      internalID: 4000035549305641811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Sheet_Gorilla_17
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 3
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6de54d1ab29bd790800000000000000
+      internalID: -7504243026030105237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Sheet_Gorilla_18
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 3
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 329b8a0adc60131e0800000000000000
+      internalID: -2219985661083469533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Sheet_Gorilla_19
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 3
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20038af208a7d03f0800000000000000
+      internalID: -932954856821870590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Sheet_Gorilla_20
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 3
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8454e5291b67d69c0800000000000000
+      internalID: -3932356394587634360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Sheet_Gorilla_21
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 3
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 600334ab6c25c9770800000000000000
+      internalID: 8618854800362254342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
